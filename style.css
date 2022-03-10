@@ -142,7 +142,7 @@ a{
 
 @media only screen and (max-width:600px) {
     .top-container{
-        width: max-content;
+        min-width: fit-content;
     }
     .top-cloud{
         right: 420px;
